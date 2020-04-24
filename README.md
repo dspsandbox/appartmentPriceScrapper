@@ -17,6 +17,7 @@ The format of each data base file is as follows:
 1 | YearMonthDay | Counts 0-1 | Counts 1-2 | ... |  Counts (N-1)-N|
 2 | YearMonthDay | Counts 0-1 | Counts 1-2 | ... |  Counts (N-1)-N|
 3 | YearMonthDay | Counts 0-1 | Counts 1-2 | ... |  Counts (N-1)-N|
+... | ... | ... | ... | ... |  ...|
 
 (\*)
 In units of (€/month) or (€) for DB-Rent and DB-Buy, respectively.
