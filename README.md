@@ -3,7 +3,7 @@
 Realtime overview of appartment prices in Barcelona. Based on the Python library [Scrappy](https://scrapy.org/) for automated crawling of [Habitaclia](https://www.habitaclia.com/). 
 ### Customizable visualisation (iPython notebook) 
 * [visualisationRent.ipynb](visualisationRent.ipynb)
-* [visualisationBuy](visualisationBuy.ipynb)
+* [visualisationBuy.ipynb](visualisationBuy.ipynb)
 
 ### Genearted databases 
 * [DB-Rent](DB-Rent)
