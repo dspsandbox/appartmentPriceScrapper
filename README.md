@@ -5,7 +5,7 @@ Realtime overview of appartment prices in Barcelona. Based on the Python library
 * [visualisationRent.ipynb](visualisationRent.ipynb)
 * [visualisationBuy.ipynb](visualisationBuy.ipynb)
 
-### Genearted databases 
+### Generated databases 
 * [DB-Rent](DB-Rent)
 * [DB-Buy](DB-Buy)
 
