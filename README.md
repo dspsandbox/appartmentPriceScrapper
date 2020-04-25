@@ -5,7 +5,8 @@ Realtime overview of appartment prices in Barcelona. Based on the Python library
 * [visualisationRent.ipynb](visualisationRent.ipynb) ---> Interactive Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationRent.ipynb)
 * [visualisationBuy.ipynb](visualisationBuy.ipynb) ---> Interactive Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationBuy.ipynb)
 
-### Databases 
+### Database information
+Location:
 * [DB-Rent](DB-Rent)
 * [DB-Buy](DB-Buy)
 
