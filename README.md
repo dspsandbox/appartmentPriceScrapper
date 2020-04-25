@@ -1,14 +1,14 @@
 # Appartment Price Scrapper
 
-Realtime overview of appartment prices in Barcelona. Based on the Python library [Scrappy](https://scrapy.org/) for automated crawling of [Habitaclia](https://www.habitaclia.com/) and database (DB) generation. 
+Realtime overview of appartment prices in Barcelona. Based on the Python library [Scrappy](https://scrapy.org/) for automated crawling of [Habitaclia](https://www.habitaclia.com/) and database (DB) generation. Have  a look at the interactive notebooks bellow !
 ### Database visualisation (histogram / temporal evolution) 
-* [visualisationRent.ipynb](visualisationRent.ipynb) ---> Interactive Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationRent.ipynb)
-* [visualisationBuy.ipynb](visualisationBuy.ipynb) ---> Interactive Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationBuy.ipynb)
+* _visualisationRent.ipynb_ ---> [Interactive Notebook](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationRent.ipynb) / [Source](visualisationRent.ipynb) 
+* _visualisationBuy.ipynb_ ---> [Interactive Notebook](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationRent.ipynb) / [Source](visualisationRent.ipynb) 
 
 ### Database information
 Location:
-* [DB-Rent](DB-Rent)
-* [DB-Buy](DB-Buy)
+* _/DB-Rent_ ---> See [here](DB-Buy)
+* _/DB-Buy_ ---> See [here](DB-Buy)
 
 Format (of each database file):
 
