@@ -7,8 +7,8 @@ Realtime overview of appartment prices in Barcelona. Based on the Python library
 
 ### Database information
 Location:
-* _/DB-Rent_ ---> See [here](DB-Buy)
-* _/DB-Buy_ ---> See [here](DB-Buy)
+* _/DB-Rent_ ---> [Source](DB-Buy)
+* _/DB-Buy_ --->  [Source](DB-Buy)
 
 Format (of each database file):
 
