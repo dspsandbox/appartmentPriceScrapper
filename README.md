@@ -1,6 +1,8 @@
 # Appartment Price Scrapper
 
-Realtime overview of appartment prices in Barcelona. Based on the Python library [Scrappy](https://scrapy.org/) for automated crawling of [Habitaclia](https://www.habitaclia.com/) and database (DB) generation. Have  a look at the interactive notebooks bellow !
+Realtime overview of appartment prices in Barcelona. Based on the Python library [Scrappy](https://scrapy.org/) for automated crawling of [Habitaclia](https://www.habitaclia.com/) and database (DB) generation. 
+
+Have  a look and configure the interactive notebooks bellow!
 ### Database visualisation (histogram / temporal evolution) 
 * _visualisationRent.ipynb_ ---> [Interactive Notebook](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationRent.ipynb) / [Source](visualisationRent.ipynb) 
 * _visualisationBuy.ipynb_ ---> [Interactive Notebook](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationRent.ipynb) / [Source](visualisationRent.ipynb) 
