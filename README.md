@@ -2,8 +2,8 @@
 
 Realtime overview of appartment prices in Barcelona. Based on the Python library [Scrappy](https://scrapy.org/) for automated crawling of [Habitaclia](https://www.habitaclia.com/). 
 ### Database visualisation (histogram / temporal evolution) 
-* [visualisationRent.ipynb](visualisationRent.ipynb) Interactive notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationRent.ipynb)
-* [visualisationBuy.ipynb](visualisationBuy.ipynb) Interactive notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationBuy.ipynb)
+* [visualisationRent.ipynb](visualisationRent.ipynb) ---> Interactive Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationRent.ipynb)
+* [visualisationBuy.ipynb](visualisationBuy.ipynb) ---> Interactive Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationBuy.ipynb)
 
 ### Databases 
 * [DB-Rent](DB-Rent)
