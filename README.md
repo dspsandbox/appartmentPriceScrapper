@@ -10,7 +10,7 @@ Location:
 * [DB-Rent](DB-Rent)
 * [DB-Buy](DB-Buy)
 
-The format of each data base file is as follows:
+Format (of each database file):
 
 | Line        | Position 0          | Position 1   |   Position 2   | ...|   Position N   |
 | --- | --- | --- | --- | --- | --- |
