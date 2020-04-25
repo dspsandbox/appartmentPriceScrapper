@@ -1,15 +1,16 @@
 # Appartment Price Scrapper
 
-Realtime overview of appartment prices in Barcelona. Based on the Python library [Scrappy](https://scrapy.org/) for automated crawling of [Habitaclia](https://www.habitaclia.com/). 
-### Customizable visualisation (iPython notebook) 
-* [visualisationRent.ipynb](visualisationRent.ipynb)
-* [visualisationBuy.ipynb](visualisationBuy.ipynb)
+Realtime overview of appartment prices in Barcelona. Based on the Python library [Scrappy](https://scrapy.org/) for automated crawling of [Habitaclia](https://www.habitaclia.com/) and database (DB) generation. 
+### Database visualisation (histogram / temporal evolution) 
+* [visualisationRent.ipynb](visualisationRent.ipynb) ---> Interactive Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationRent.ipynb)
+* [visualisationBuy.ipynb](visualisationBuy.ipynb) ---> Interactive Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationBuy.ipynb)
 
-### Generated databases 
+### Database information
+Location:
 * [DB-Rent](DB-Rent)
 * [DB-Buy](DB-Buy)
 
-The format of each data base file is as follows:
+Format (of each database file):
 
 | Line        | Position 0          | Position 1   |   Position 2   | ...|   Position N   |
 | --- | --- | --- | --- | --- | --- |
