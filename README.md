@@ -5,11 +5,11 @@ Realtime overview of appartment prices in Barcelona. Based on the Python library
 Have  a look and configure the interactive notebooks bellow!
 ### Database visualisation (histogram / temporal evolution) 
 * _visualisationRent.ipynb_ ---> [Interactive Notebook](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationRent.ipynb) / [Source](visualisationRent.ipynb) 
-* _visualisationBuy.ipynb_ ---> [Interactive Notebook](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationRent.ipynb) / [Source](visualisationRent.ipynb) 
+* _visualisationBuy.ipynb_ ---> [Interactive Notebook](https://mybinder.org/v2/gh/dspsandbox/appartmentPriceScrapper/master?filepath=visualisationBuy.ipynb) / [Source](visualisationBuy.ipynb) 
 
 ### Database information
 Location:
-* _/DB-Rent_ ---> See DB content [here](DB-Buy)
+* _/DB-Rent_ ---> See DB content [here](DB-Rent)
 * _/DB-Buy_ --->  See DB content [here](DB-Buy)
 
 Format (of each database file):
